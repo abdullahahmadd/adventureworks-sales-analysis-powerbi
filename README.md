@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Power BI Sales Analysis
+# 📊 AdventureWorks Sales Analysis (PowerBI)
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adventureworks-powerbi-datamodel)
